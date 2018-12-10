@@ -6,4 +6,5 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-till now i have finished upto git rebase and looking forward to learn more.
+till now i have finished upto git rebase and looking forward to learn more
+now i have worked on git rebase example.
