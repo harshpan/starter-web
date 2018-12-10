@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <name> the city name is rewa iti s in MP.
 
 # TECHNOLOGY COLOPHON
 
