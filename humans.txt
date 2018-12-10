@@ -8,7 +8,9 @@
 # THANKS
 
     <name> the city name is rewa iti s in HP.
-    i am working on GIT.
+    i am working on GIT
+    
+    today we will learn some new stuff.
 
 # TECHNOLOGY COLOPHON
 
