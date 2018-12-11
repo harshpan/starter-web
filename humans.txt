@@ -14,6 +14,6 @@
 
 # TECHNOLOGY COLOPHON
 
-    CSS cascade, Python, java, php, C++
+    CSS cascade, Python, java, php, C++, mango maa
     HTML5, CSS3
     jQuery, Modernizr
